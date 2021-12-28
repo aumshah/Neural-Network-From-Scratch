@@ -6,5 +6,5 @@ This is a simple Neural Network created without any Machine Learning Libraries. 
 
 <ul>
   <li>The Neural Network has a somewhat hard time with datasets larger than 20. (This can be fixed by lowering the learning rate)</li>
-  <li>The Neural Network does not have a bias yet which means it cannot accurately fit data points with a y intercept.
+  <li>The Neural Network requires a lot of epochs to accurately calculate the y intercept</li>
 <ul>
